@@ -1,0 +1,45 @@
+/* font-family: 'Inter', sans-serif;
+font-family: 'Space Mono', monospace; */
+*
+{
+    background: #000000;
+}
+h1
+{
+    font-family: 'Inter', sans-serif;
+    color: #ffff;
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 121px;
+}
+span
+{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 61px;
+    color: #FFFFFF;
+}
+.heading-sec {
+    text-align: center;
+    margin-top: 80px;
+}
+.fetching-btn {
+    text-align: center;
+    margin-top: 60px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fetching-btn button {
+    background: #ffffff;
+    width: 100%;
+    padding: 20px;
+    border: 2px solid #ffffff;
+}
+.lm-sec {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
